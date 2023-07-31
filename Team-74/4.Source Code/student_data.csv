@@ -1,0 +1,216 @@
+sl_no,gender,Stream,TechnicalSkill_perc,Self Learning Capability,Coding_perc,Extra_Courses,Communication_perc,Internship,LogicalReasoning_perc,status,certifications,workshops,Interested subjects,Suggested Job Role
+1,M,CSE,67,No,91,No,58,No,55,Placed,shell programming,cloud computing,cloud computing,Database Developer
+2,M,CSE,79.33,Yes,78.33,No,77.48,Yes,86.5,Placed,machine learning,database security,networks,Portal Administrator
+3,M,ECE,65,Yes,68,Yes,64,No,75,Placed,app development,web technologies,hacking,Portal Administrator
+4,M,CSE,56,Yes,52,Yes,52,No,66,Not Placed,python,data science,networks,Systems Security Administrator
+5,M,ECE,85.8,Yes,73.6,Yes,73.3,No,96.8,Placed,app development,cloud computing,Computer Architecture,Business Systems Analyst
+6,M,CSE,55,No,49.8,No,67.25,Yes,55,Not Placed,python,database security,programming,Software Systems Engineer
+7,F,ECE,46,No,49.2,No,79,No,74.28,Not Placed,r programming,cloud computing,parallel computing,Database Developer
+8,M,CSE,82,Yes,64,Yes,66,Yes,67,Placed,r programming,cloud computing,parallel computing,Business Intelligence Analyst
+9,M,ECE,73,Yes,79,Yes,72,No,91.34,Placed,information security,testing,IOT,Business Systems Analyst
+10,M,ECE,58,Yes,70,Yes,61,No,54,Not Placed,app development,data science,data engineering,CRM Technical Developer
+11,M,ECE,58,Yes,61,Yes,60,Yes,62,Placed,hadoop,database security,parallel computing,Mobile Applications Developer
+12,M,ECE,69.6,Yes,68.4,Yes,78.3,Yes,60,Placed,machine learning,hacking,parallel computing,UX Designer
+13,F,ECE,47,Yes,55,No,65,No,62,Not Placed,distro making,game development,cloud computing,CRM Technical Developer
+14,F,ECE,77,Yes,87,Yes,59,No,68,Placed,python,testing,parallel computing,Business Systems Analyst
+15,M,ECE,62,Yes,47,Yes,50,No,76,Not Placed,machine learning,hacking,Software Engineering,Quality Assurance Associate
+16,F,ECE,65,Yes,75,Yes,69,Yes,72,Placed,information security,system designing,networks,Web Developer
+17,M,ECE,63,Yes,66.2,Yes,65.6,Yes,60,Placed,app development,hacking,IOT,Web Developer
+18,F,ECE,55,Yes,67,Yes,64,No,60,Not Placed,hadoop,web technologies,hacking,Information Security Analyst
+19,F,ECE,63,Yes,66,Yes,64,No,68,Not Placed,machine learning,testing,Computer Architecture,CRM Business Analyst
+20,M,ECE,60,No,67,No,70,Yes,50.48,Placed,hadoop,system designing,parallel computing,Information Security Analyst
+21,M,ECE,62,No,65,No,66,No,50,Placed,app development,game development,parallel computing,Database Developer
+22,F,ECE,79,No,76,No,85,No,95,Placed,hadoop,system designing,hacking,Business Systems Analyst
+23,F,CSE,69.8,No,60.8,No,72.23,No,55.53,Placed,r programming,system designing,cloud computing,Quality Assurance Associate
+24,F,CSE,77.4,No,60,No,64.74,Yes,92,Placed,shell programming,testing,data engineering,Technical Support
+25,M,CSE,76.5,No,97.7,No,78.86,No,97.4,Placed,full stack,testing,parallel computing,Technical Support
+26,F,ECE,52.58,No,54.6,Yes,50.2,Yes,76,Not Placed,distro making,testing,networks,Information Security Analyst
+27,M,ECE,71,No,79,No,66,Yes,94,Placed,python,database security,programming,Business Intelligence Analyst
+28,M,ECE,63,No,67,No,66,No,68,Placed,app development,data science,parallel computing,Project Manager
+29,M,ECE,76.76,No,76.5,No,67.5,Yes,73.35,Placed,app development,testing,cloud computing,Information Technology Manager
+30,M,ECE,62,Yes,67,Yes,58,No,77,Not Placed,app development,testing,networks,Web Developer
+31,F,ECE,64,Yes,73.5,Yes,73,No,52,Placed,python,data science,data engineering,Programmer Analyst
+32,F,CSE,67,Yes,53,Yes,65,No,64,Not Placed,full stack,game development,cloud computing,Business Systems Analyst
+33,F,ECE,61,Yes,81,Yes,66.4,No,50.89,Placed,shell programming,testing,data engineering,Systems Security Administrator
+34,F,ECE,87,No,65,No,81,Yes,88,Placed,full stack,database security,parallel computing,Business Systems Analyst
+35,M,Other,62,No,51,No,52,No,68.44,Not Placed,app development,web technologies,data engineering,Design & UX
+36,F,ECE,69,Yes,78,Yes,72,No,71,Placed,hadoop,hacking,Computer Architecture,Solutions Architect
+37,M,ECE,51,Yes,44,Yes,57,No,64,Not Placed,app development,system designing,Computer Architecture,Business Systems Analyst
+38,F,CSE,79,Yes,76,Yes,65.6,No,58,Placed,shell programming,cloud computing,hacking,Systems Analyst
+39,F,ECE,73,No,58,No,66,No,53.7,Placed,full stack,system designing,data engineering,Network Security Administrator
+40,M,CSE,81,No,68,No,64,No,93,Placed,app development,hacking,cloud computing,Data Architect
+41,F,ECE,78,Yes,77,No,80,No,60,Placed,python,game development,Software Engineering,CRM Technical Developer
+42,F,ECE,74,No,63.16,No,65,Yes,65,Not Placed,app development,web technologies,Software Engineering,Software Developer
+43,M,Other,49,No,39,Yes,65,No,63,Not Placed,machine learning,data science,IOT,E-Commerce Analyst
+44,M,ECE,87,No,87,No,68,No,95,Placed,full stack,web technologies,Software Engineering,Technical Services/Help Desk/Tech Support
+45,F,ECE,77,No,73,No,81,Yes,89,Placed,machine learning,testing,Management,Systems Analyst
+46,F,CSE,76,Yes,64,Yes,72,No,58,Not Placed,shell programming,testing,networks,Information Technology Auditor
+47,F,ECE,70.89,No,71.98,No,65.6,No,68,Not Placed,python,testing,data engineering,Network Security Administrator
+48,M,ECE,63,Yes,60,Yes,57,Yes,78,Placed,shell programming,cloud computing,Software Engineering,Database Manager
+49,M,ECE,63,No,62,No,68,No,64,Placed,python,database security,hacking,Web Developer
+50,F,Other,50,No,37,No,52,No,65,Not Placed,distro making,database security,Computer Architecture,Information Security Analyst
+51,F,ECE,75.2,Yes,73.2,Yes,68.4,No,65,Placed,information security,database security,parallel computing,E-Commerce Analyst
+52,M,ECE,54.4,Yes,61.12,Yes,56.2,No,67,Not Placed,machine learning,cloud computing,hacking,Technical Services/Help Desk/Tech Support
+53,F,ECE,40.89,No,45.83,No,53,No,71.2,Not Placed,information security,testing,programming,Applications Developer
+54,M,CSE,80,No,70,No,72,No,87,Placed,information security,database security,hacking,Software Systems Engineer
+55,F,ECE,74,Yes,60,No,69,No,78,Placed,hadoop,cloud computing,cloud computing,CRM Technical Developer
+56,M,ECE,60.4,Yes,66.6,No,65,No,71,Placed,shell programming,system designing,parallel computing,Database Manager
+57,M,ECE,63,No,71.4,No,61.4,No,68,Placed,machine learning,hacking,networks,Technical Support
+58,M,ECE,68,Yes,76,Yes,74,No,80,Placed,full stack,testing,Management,Database Administrator
+59,M,ECE,74,Yes,62,No,68,No,74,Placed,distro making,hacking,hacking,Network Engineer
+60,M,CSE,52.6,Yes,65.58,No,72.11,No,57.6,Placed,machine learning,system designing,data engineering,Mobile Applications Developer
+61,M,ECE,74,Yes,70,Yes,72,Yes,60,Placed,distro making,testing,Computer Architecture,Technical Services/Help Desk/Tech Support
+62,M,ECE,84.2,Yes,73.4,Yes,66.89,No,61.6,Placed,full stack,cloud computing,parallel computing,Technical Support
+63,F,CSE,86.5,No,64.2,No,67.4,No,59,Placed,machine learning,game development,Management,Information Technology Manager
+64,M,ECE,61,No,70,No,64,No,68.5,Not Placed,r programming,web technologies,Management,E-Commerce Analyst
+65,M,ECE,80,No,73,No,75,No,61,Placed,python,data science,cloud computing,Software Developer
+66,M,ECE,54,No,47,No,57,No,89.69,Not Placed,information security,cloud computing,Computer Architecture,Solutions Architect
+67,M,ECE,83,No,74,No,66,No,68.92,Placed,python,database security,data engineering,Software Systems Engineer
+68,M,ECE,80.92,No,78.5,No,67,No,68.71,Placed,hadoop,testing,data engineering,Network Engineer
+69,F,CSE,69.7,Yes,47,Yes,72.7,No,79,Not Placed,r programming,cloud computing,networks,Technical Support
+70,M,CSE,73,Yes,73,Yes,66,Yes,70,Placed,hadoop,web technologies,IOT,Information Technology Manager
+71,M,CSE,82,No,61,No,62,No,89,Placed,information security,web technologies,programming,Software Engineer
+72,M,ECE,75,No,70.29,No,71,No,95,Placed,information security,system designing,hacking,Software Developer
+73,M,ECE,84.86,No,67,No,78,No,95.5,Placed,python,testing,IOT,Programmer Analyst
+74,M,ECE,64.6,Yes,83.83,No,71.72,No,86,Placed,machine learning,system designing,cloud computing,CRM Business Analyst
+75,M,ECE,56.6,Yes,64.8,Yes,70.2,No,84.27,Placed,machine learning,cloud computing,Computer Architecture,Software Developer
+76,F,ECE,59,Yes,62,No,77.5,No,74,Not Placed,r programming,web technologies,parallel computing,Business Intelligence Analyst
+77,F,ECE,66.5,No,70.4,Yes,71.93,No,61,Placed,r programming,system designing,data engineering,Database Administrator
+78,M,CSE,64,No,80,No,65,Yes,69,Placed,distro making,game development,IOT,Technical Engineer
+79,M,CSE,84,No,90.9,No,64.5,No,86.04,Placed,app development,testing,Management,Data Architect
+80,F,CSE,69,Yes,62,Yes,66,No,75,Not Placed,app development,testing,IOT,Network Security Engineer
+81,F,ECE,69,No,62,No,69,Yes,67,Placed,full stack,cloud computing,parallel computing,CRM Technical Developer
+82,M,ECE,81.7,No,63,No,67,Yes,86,Placed,app development,system designing,Management,Software Developer
+83,M,ECE,63,Yes,67,Yes,74,No,82,Not Placed,machine learning,system designing,data engineering,Systems Security Administrator
+84,M,CSE,84,No,79,No,68,Yes,84,Placed,distro making,testing,Computer Architecture,Network Engineer
+85,M,CSE,70,Yes,63,No,70,Yes,55,Placed,shell programming,hacking,Management,Technical Services/Help Desk/Tech Support
+86,F,ECE,83.84,No,89.83,No,77.2,Yes,78.74,Placed,machine learning,database security,Computer Architecture,Systems Security Administrator
+87,M,ECE,62,No,63,No,64,No,67,Placed,hadoop,web technologies,IOT,Web Developer
+88,M,Other,59.6,Yes,51,Yes,60,No,75,Not Placed,full stack,hacking,Software Engineering,Portal Administrator
+89,F,ECE,66,Yes,62,Yes,73,No,58,Placed,full stack,game development,Computer Architecture,Software Developer
+90,F,CSE,84,No,75,No,69,Yes,62,Placed,distro making,data science,parallel computing,Network Security Engineer
+91,F,ECE,85,No,90,No,82,No,92,Placed,machine learning,cloud computing,networks,Solutions Architect
+92,M,ECE,52,Yes,57,Yes,50.8,No,67,Not Placed,shell programming,cloud computing,hacking,Network Security Administrator
+93,F,ECE,60.23,Yes,69,Yes,66,No,72,Placed,app development,hacking,data engineering,Portal Administrator
+94,M,ECE,52,Yes,62,Yes,54,No,72,Not Placed,shell programming,cloud computing,IOT,UX Designer
+95,M,ECE,58,Yes,62,Yes,64,No,53.88,Placed,app development,system designing,Management,Project Manager
+96,M,ECE,73,Yes,78,No,65,Yes,95.46,Placed,hadoop,data science,parallel computing,Project Manager
+97,F,ECE,76,Yes,70,Yes,76,Yes,66,Placed,distro making,game development,Management,Network Engineer
+98,F,ECE,70.5,Yes,62.5,No,61,No,93.91,Not Placed,machine learning,game development,cloud computing,Quality Assurance Associate
+99,F,ECE,69,Yes,73,Yes,65,No,70,Placed,shell programming,testing,Management,Applications Developer
+100,M,CSE,54,Yes,82,No,63,No,50,Not Placed,shell programming,game development,hacking,Technical Engineer
+101,F,ECE,45,No,57,No,58,Yes,56.39,Not Placed,distro making,testing,networks,Network Security Administrator
+102,M,ECE,63,Yes,72,Yes,68,No,78,Placed,full stack,web technologies,Management,CRM Technical Developer
+103,F,ECE,77,No,61,No,68,Yes,57.5,Placed,python,data science,Management,E-Commerce Analyst
+104,M,CSE,73,Yes,78,Yes,73,Yes,85,Placed,information security,hacking,parallel computing,Software Quality Assurance (QA) / Testing
+105,M,ECE,69,Yes,63,No,65,Yes,55,Placed,machine learning,hacking,hacking,Network Security Administrator
+106,M,CSE,59,Yes,64,No,58,No,85,Not Placed,r programming,cloud computing,networks,Network Engineer
+107,M,CSE,61.08,No,50,No,54,No,71,Not Placed,information security,database security,programming,Technical Engineer
+108,M,ECE,82,No,90,No,83,No,80,Placed,machine learning,system designing,parallel computing,Systems Security Administrator
+109,M,ECE,61,Yes,82,Yes,69,No,84,Placed,python,data science,Computer Architecture,Design & UX
+110,M,CSE,52,Yes,63,No,65,Yes,86,Not Placed,app development,web technologies,Computer Architecture,Database Administrator
+111,F,CSE,69.5,Yes,70,Yes,72,No,57.2,Placed,hadoop,data science,parallel computing,Programmer Analyst
+112,M,CSE,51,No,54,No,61,No,60,Not Placed,python,cloud computing,programming,Software Quality Assurance (QA) / Testing
+113,M,ECE,58,No,61,No,61,No,58,Placed,machine learning,data science,networks,CRM Business Analyst
+114,F,ECE,73.96,No,79,No,67,No,72.15,Placed,shell programming,game development,Management,Database Manager
+115,M,ECE,65,Yes,68,No,69,No,53.7,Placed,python,database security,hacking,Software Developer
+116,F,ECE,73,No,63,No,66,No,89,Placed,python,data science,Management,Solutions Architect
+117,M,ECE,68.2,Yes,72.8,Yes,66.6,Yes,96,Placed,shell programming,data science,Software Engineering,Information Security Analyst
+118,M,CSE,77,No,75,No,73,No,80,Placed,machine learning,web technologies,Software Engineering,Network Security Engineer
+119,M,CSE,76,Yes,80,Yes,78,Yes,97,Placed,information security,cloud computing,programming,Network Engineer
+120,M,ECE,60.8,Yes,68.4,Yes,64.6,Yes,82.66,Placed,shell programming,database security,Software Engineering,Technical Support
+121,M,ECE,58,No,40,No,59,No,73,Not Placed,information security,game development,Computer Architecture,Systems Analyst
+122,F,CSE,64,Yes,67,No,69.6,Yes,55.67,Placed,r programming,data science,IOT,Information Technology Auditor
+123,F,ECE,66.5,Yes,66.8,Yes,69.3,Yes,80.4,Placed,hadoop,system designing,parallel computing,CRM Technical Developer
+124,M,ECE,74,No,59,No,73,Yes,60,Placed,python,cloud computing,Software Engineering,Technical Services/Help Desk/Tech Support
+125,M,Other,67,Yes,71,Yes,64.33,Yes,64,Placed,python,hacking,cloud computing,Software Quality Assurance (QA) / Testing
+126,F,ECE,84,Yes,73,Yes,73,No,75,Placed,shell programming,system designing,cloud computing,Business Systems Analyst
+127,F,CSE,79,No,61,No,75.5,Yes,70,Placed,r programming,data science,hacking,Technical Engineer
+128,F,ECE,72,No,60,No,69,No,55.5,Placed,hadoop,web technologies,Computer Architecture,Technical Support
+129,M,CSE,80.4,Yes,73.4,Yes,77.72,Yes,81.2,Placed,hadoop,database security,Computer Architecture,Information Technology Auditor
+130,M,ECE,76.7,Yes,89.7,No,66,Yes,90,Placed,information security,web technologies,parallel computing,Network Security Administrator
+131,M,ECE,62,Yes,65,No,60,No,84,Not Placed,hadoop,hacking,networks,Information Technology Manager
+132,F,Other,74.9,No,57,No,62,Yes,80,Placed,shell programming,testing,cloud computing,Web Developer
+133,M,ECE,67,No,68,No,64,Yes,74.4,Placed,r programming,web technologies,networks,Business Systems Analyst
+134,M,ECE,73,Yes,64,No,77,Yes,65,Placed,distro making,game development,Management,Systems Analyst
+135,F,ECE,77.44,Yes,92,No,72,Yes,94,Placed,information security,database security,hacking,Web Developer
+136,F,ECE,72,Yes,56,No,69,No,55.6,Placed,machine learning,database security,Software Engineering,Solutions Architect
+137,F,ECE,47,Yes,59,Yes,64,No,78,Not Placed,information security,data science,cloud computing,UX Designer
+138,M,ECE,67,No,63,Yes,72,No,56,Placed,full stack,hacking,programming,Network Engineer
+139,F,CSE,82,No,64,No,73,Yes,96,Placed,information security,testing,data engineering,Applications Developer
+140,M,ECE,77,Yes,70,Yes,59,Yes,58,Placed,app development,cloud computing,Management,Project Manager
+141,M,ECE,65,Yes,64.8,No,69.5,Yes,56,Placed,machine learning,system designing,hacking,UX Designer
+142,M,ECE,66,Yes,64,Yes,60,No,60,Not Placed,shell programming,data science,data engineering,Database Administrator
+143,M,CSE,85,Yes,60,No,73.43,Yes,60,Placed,shell programming,web technologies,programming,Information Technology Auditor
+144,M,ECE,77.67,No,64.89,No,70.67,No,89,Placed,hadoop,testing,networks,Database Developer
+145,M,ECE,52,No,50,No,61,No,60,Not Placed,hadoop,database security,hacking,Database Manager
+146,M,CSE,89.4,No,65.66,No,71.25,No,72,Placed,information security,system designing,IOT,Software Systems Engineer
+147,M,ECE,62,Yes,63,No,66,No,85,Placed,app development,hacking,Computer Architecture,UX Designer
+148,M,ECE,70,Yes,74,Yes,65,No,83,Placed,shell programming,database security,parallel computing,Solutions Architect
+149,F,Other,77,Yes,86,Yes,56,No,57,Placed,app development,game development,programming,Project Manager
+150,M,ECE,44,Yes,58,Yes,55,Yes,64.25,Not Placed,machine learning,web technologies,parallel computing,Network Engineer
+151,M,CSE,71,Yes,58.66,Yes,58,Yes,56,Placed,information security,hacking,cloud computing,E-Commerce Analyst
+152,M,ECE,65,Yes,65,Yes,75,No,83,Placed,information security,database security,networks,Business Systems Analyst
+153,F,CSE,75.4,No,60.5,Yes,84,No,98,Placed,full stack,system designing,programming,E-Commerce Analyst
+154,M,CSE,49,No,59,No,65,Yes,86,Placed,shell programming,system designing,IOT,Systems Security Administrator
+155,M,ECE,53,Yes,63,No,60,Yes,70,Placed,app development,system designing,programming,Mobile Applications Developer
+156,M,ECE,51.57,No,74.66,No,59.9,Yes,56.15,Not Placed,machine learning,cloud computing,networks,Business Systems Analyst
+157,M,CSE,84.2,Yes,69.4,Yes,65,Yes,80,Placed,python,hacking,data engineering,Quality Assurance Associate
+158,M,ECE,66.5,Yes,62.5,Yes,60.9,No,93.4,Placed,machine learning,cloud computing,Software Engineering,Technical Engineer
+159,M,CSE,67,No,63,No,64,No,60,Not Placed,app development,hacking,parallel computing,Data Architect
+160,M,ECE,52,Yes,49,No,58,No,62,Not Placed,hadoop,system designing,data engineering,Software Quality Assurance (QA) / Testing
+161,M,CSE,87,Yes,74,Yes,65,Yes,75,Placed,r programming,data science,data engineering,CRM Technical Developer
+162,M,ECE,55.6,No,51,No,57.5,No,57.63,Not Placed,hadoop,system designing,networks,Database Developer
+163,M,ECE,74.2,Yes,87.6,No,77.25,Yes,75.2,Placed,hadoop,game development,cloud computing,Information Security Analyst
+164,M,CSE,63,No,67,No,64,No,75,Placed,information security,data science,Software Engineering,Software Systems Engineer
+165,F,ECE,67.16,Yes,72.5,Yes,63.35,No,53.04,Placed,distro making,hacking,programming,Design & UX
+166,F,ECE,63.3,Yes,78.33,No,74,No,80,Not Placed,full stack,data science,data engineering,Database Developer
+167,M,ECE,62,No,62,No,60,Yes,63,Placed,full stack,database security,programming,Systems Analyst
+168,M,CSE,67.9,No,62,No,67,Yes,58.1,Not Placed,python,web technologies,hacking,Business Intelligence Analyst
+169,F,ECE,48,Yes,51,Yes,58,Yes,60,Not Placed,shell programming,testing,parallel computing,Software Engineer
+170,M,CSE,59.96,No,42.16,No,61.26,No,54.48,Not Placed,hadoop,cloud computing,parallel computing,Network Security Administrator
+171,F,ECE,63.4,No,67.2,No,60,No,58.06,Not Placed,hadoop,system designing,Computer Architecture,UX Designer
+172,M,ECE,80,No,80,No,72,Yes,63.79,Placed,hadoop,game development,cloud computing,Information Security Analyst
+173,M,ECE,73,No,58,No,56,No,84,Placed,distro making,testing,cloud computing,Software Systems Engineer
+174,F,CSE,52,No,52,No,55,No,67,Not Placed,full stack,game development,IOT,Network Engineer
+175,M,CSE,73.24,No,50.83,No,64.27,Yes,64,Placed,hadoop,system designing,programming,Network Security Administrator
+176,M,CSE,63,No,62,No,65,No,87.5,Not Placed,information security,web technologies,programming,Programmer Analyst
+177,F,ECE,59,Yes,60,No,56,No,55,Placed,full stack,system designing,cloud computing,Information Technology Manager
+178,F,ECE,73,Yes,97,No,79,Yes,89,Placed,app development,web technologies,data engineering,Web Developer
+179,M,CSE,68,No,56,No,68,No,73,Placed,information security,data science,cloud computing,Web Developer
+180,F,CSE,77.8,Yes,64,Yes,64.2,No,75.5,Not Placed,full stack,system designing,Computer Architecture,Portal Administrator
+181,M,ECE,65,Yes,71.5,No,62.8,Yes,57,Placed,shell programming,data science,programming,Solutions Architect
+182,M,CSE,62,Yes,60.33,No,64.21,No,63,Not Placed,app development,game development,programming,Portal Administrator
+183,M,Other,52,No,65,No,57,Yes,75,Not Placed,app development,data science,IOT,Information Technology Manager
+184,M,ECE,65,Yes,77,Yes,69,No,60,Placed,information security,data science,Software Engineering,Database Administrator
+185,F,ECE,56.28,No,62.83,No,59.79,No,60,Not Placed,machine learning,database security,IOT,Software Developer
+186,F,Other,88,Yes,72,Yes,78,No,82,Placed,app development,hacking,programming,Portal Administrator
+187,F,ECE,52,Yes,64,Yes,61,No,55,Not Placed,r programming,database security,networks,Applications Developer
+188,M,CSE,78.5,Yes,65.5,Yes,67,Yes,95,Placed,full stack,hacking,data engineering,Design & UX
+189,M,ECE,61.8,No,47,No,54.38,No,57,Not Placed,r programming,system designing,parallel computing,Network Security Engineer
+190,F,ECE,54,Yes,77.6,No,69.2,No,95.65,Not Placed,information security,system designing,programming,Solutions Architect
+191,F,ECE,64,No,70.2,Yes,61,No,50,Not Placed,app development,cloud computing,cloud computing,Systems Analyst
+192,M,ECE,67,No,61,Yes,72,No,72,Placed,full stack,hacking,parallel computing,UX Designer
+193,M,ECE,65.2,Yes,61.4,Yes,64.8,Yes,93.4,Placed,machine learning,system designing,cloud computing,CRM Technical Developer
+194,F,Other,60,Yes,63,Yes,56,Yes,80,Placed,python,hacking,cloud computing,Technical Support
+195,M,ECE,52,No,55,No,56.3,No,59,Not Placed,shell programming,cloud computing,programming,Information Technology Manager
+196,M,ECE,66,Yes,76,Yes,72,Yes,84,Placed,distro making,hacking,programming,Systems Security Administrator
+197,M,CSE,72,No,63,No,77.5,Yes,78,Placed,app development,database security,Management,Data Architect
+198,F,CSE,83.96,No,53,No,91,No,59.32,Placed,hadoop,hacking,hacking,Business Intelligence Analyst
+199,F,Other,67,Yes,70,Yes,65,No,88,Not Placed,python,web technologies,parallel computing,UX Designer
+200,M,ECE,69,No,65,No,57,No,73,Placed,machine learning,system designing,Computer Architecture,Portal Administrator
+201,M,ECE,69,No,60,No,65,No,87.55,Placed,distro making,testing,hacking,Database Administrator
+202,M,ECE,54.2,Yes,63,No,58,No,79,Not Placed,shell programming,web technologies,data engineering,Network Security Engineer
+203,M,CSE,70,Yes,63,Yes,66,No,61.28,Placed,distro making,game development,Software Engineering,Applications Developer
+204,M,ECE,55.68,No,61.33,No,56.87,No,66,Placed,full stack,game development,hacking,Software Quality Assurance (QA) / Testing
+205,F,ECE,74,No,73,No,73,Yes,80,Placed,distro making,database security,hacking,Database Manager
+206,M,ECE,61,No,62,No,65,No,62,Placed,full stack,database security,IOT,Portal Administrator
+207,M,ECE,41,Yes,42,Yes,60,No,97,Not Placed,information security,game development,programming,Software Developer
+208,M,ECE,83.33,Yes,78,No,61,Yes,88.56,Placed,app development,game development,parallel computing,CRM Business Analyst
+209,F,ECE,43,Yes,60,No,65,No,92.66,Not Placed,distro making,web technologies,Software Engineering,Database Developer
+210,M,ECE,62,Yes,72,Yes,65,No,67,Placed,full stack,testing,Software Engineering,Software Quality Assurance (QA) / Testing
+211,M,ECE,80.6,No,82,No,77.6,No,91,Placed,full stack,database security,Management,Software Quality Assurance (QA) / Testing
+212,M,CSE,58,No,60,No,72,No,74,Placed,full stack,database security,hacking,UX Designer
+213,M,ECE,67,No,67,No,73,Yes,59,Placed,information security,testing,parallel computing,Network Security Administrator
+214,F,ECE,74,No,66,No,58,No,70,Placed,full stack,cloud computing,networks,Business Systems Analyst
+215,M,ECE,62,Yes,58,No,53,No,89,Not Placed,information security,testing,parallel computing,CRM Technical Developer
